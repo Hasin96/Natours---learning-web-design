@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Hasin96/Natours---learning-web-design#readme",
   "devDependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   }
 }
